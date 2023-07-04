@@ -1,3 +1,3 @@
-My README.md cool
+My README.md
 
 
